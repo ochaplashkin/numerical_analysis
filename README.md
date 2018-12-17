@@ -11,7 +11,7 @@
 * Метод Гаусса с выбором главного элемента в строке
 * Метод Гаусса с выбором главного элемента в столбце
 * Метод Гаусса с выбором главного элемента в матрице
-* [Метод квадратного корня](https://github.com/tritonsy/choleskyDecomposition)
+* [Метод квадратного корня](https://github.com/tritonsy/choleskyDecomposition)  `C++`
 * [Метод прогонки](https://github.com/tritonsy/thomasAlgorithm)
 ###### Итерационные методы решения систем линейных алгебраических уравнений
 * [Метод Якоби](https://github.com/tritonsy/JacobiMethod)
