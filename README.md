@@ -1,4 +1,7 @@
 # Численные методы
+![alt text](https://github.com/ochaplashkin/numerical_analysis/blob/master/logo/logo.svg)
+
+
 Алгоритмы реализованы на следующих языках:
 
 | Язык | Компилятор/Версия | Среда разработки | 
