@@ -32,3 +32,7 @@
 * [Метод секущих(строки 32-44)](https://github.com/ochaplashkin/numerical_analysis/blob/master/nonlinear_equations.go#L32) `Go`
 * [Метод вилки(строки 46-63)](https://github.com/ochaplashkin/numerical_analysis/blob/master/nonlinear_equations.go#L46) `Go`
 * [Решение системы уравнений методом Ньютона](https://github.com/ochaplashkin/numerical_analysis/blob/master/nonlinear_system(newton).go) `Go`
+##### Численное решение задачи Коши для обыкновенных дифференциальных уравнений
+* Метод Рунге-Кутта с автоматическим выбором шага
+* Метод Рунге-Кутта с постоянным шагом
+* Методом Адамса с постоянным шагом
