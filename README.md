@@ -1,5 +1,5 @@
 # Численные методы
-![alt text](https://github.com/ochaplashkin/numerical_analysis/blob/master/logo2.svg)
+![alt text](https://github.com/ochaplashkin/numerical_analysis/blob/master/logo/logo2.svg)
 
 
 Алгоритмы реализованы на следующих языках:
