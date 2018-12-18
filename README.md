@@ -12,7 +12,7 @@
 ##### Прямые методы решения систем линейных алгебраических уравнений
 * [Метод Гаусса классический](https://github.com/ochaplashkin/numerical_analysis/blob/master/gauss_classic.cpp)  `C++` 
 * [Метод Гаусса с выбором главного элемента в строке](https://github.com/ochaplashkin/numerical_analysis/blob/master/gauss_row.cpp)  `C++`
-* Метод ГаМетодомусса с выбором главного элемента в столбце  
+* Метод Гаусса с выбором главного элемента в столбце  
 * Метод Гаусса с выбором главного элемента в матрице
 * [Метод квадратного корня](https://github.com/tritonsy/choleskyDecomposition)  `C++`
 * [Метод прогонки](https://github.com/tritonsy/thomasAlgorithm) `C++`
