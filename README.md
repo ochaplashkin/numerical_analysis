@@ -22,7 +22,7 @@
 * [Метод релаксации](https://github.com/tritonsy/relaxationMethod) `C++`
 ##### Приближение функций
 * [Интерполяционный многочлен Ньютона](https://github.com/ochaplashkin/numerical_analysis/tree/master/interpolation_newton) `Go`
-* [Интерполяционный кубический сплайн](https://github.com/ochaplashkin/numerical_analysis/tree/master/spline) `Go`
+* [Интерполяционный кубический сплайн](https://github.com/ochaplashkin/numerical_analysis/tree/master/spline) `Go`  `C++` 
 * [Cглаживание по методу наименьших квадратов](https://github.com/ochaplashkin/numerical_analysis/tree/master/ols) `Go`
 ##### Вычисление интегралов
 * [Вычисление  простого интеграла и интеграла с параметром](https://github.com/ochaplashkin/numerical_analysis/blob/master/integral.go) `Go`
